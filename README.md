@@ -1,6 +1,6 @@
 # Morpion - Colle W1
 
-Bienvenue dans ce dépôt GitHub ! Ce dépôt contient le travail réalisé durant une après-midi pour la colle **W1 - Morpion**. Le projet consiste à développer un jeu de morpion en JavaScript (ES6).
+Ce dépôt contient le travail réalisé durant une après-midi pour la colle **W1 - Morpion**. Le projet consiste à développer un jeu de morpion en JavaScript (ES6).
 
 ## Description du Projet
 
